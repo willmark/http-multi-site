@@ -1,0 +1,17 @@
+{
+  "hostnameOnly": "true",
+  "domains": {
+    "example1.com": {
+       "hostport": "localhost:3003",
+       "dir": "/home/nodejs/websites/example1.com"
+    },
+    "example2.com": {
+       "hostport": "localhost:3002",
+       "dir": "/home/nodejs/websites/example2.com"
+    },
+    "example3.com": {
+       "hostport": "localhost:3001",
+       "dir": "/home/nodejs/websites/example3.com"
+    }
+  }
+}
